@@ -29,6 +29,7 @@
 		<form action="convert2" method="post">
 			<tr>
 				<td> HexaString </td>
+				
 				<td> <input type="text" name="HexaString" value="${HexaString}"> </td>
 			</tr>
 			<tr id="result" >
